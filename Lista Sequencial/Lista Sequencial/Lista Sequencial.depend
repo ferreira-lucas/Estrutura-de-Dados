@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1619563937 source:d:\projetos c\lista sequencial\lista sequencial\main.c
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"manut.h"
+
+1619565289 d:\projetos c\lista sequencial\lista sequencial\manut.h
+
+1619563989 source:d:\projetos c\lista sequencial\lista sequencial\manut.c
+	<stdio.h>
+	<string.h>
+	"manut.h"
+
